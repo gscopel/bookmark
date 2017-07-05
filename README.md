@@ -1,2 +1,2 @@
 # js-bookmark-app
-A sweet an simple application made with vanilla javascript and love that allows the user to bookmark websites
+A sweet and simple application made with vanilla JavaScript and love that allows the user to bookmark websites
